@@ -1,0 +1,25 @@
+{
+    "name": "tej2o-unit-5-05-blob-main-readmemd",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "tej2o-unit-5-05": "github:kyle-mathew-magnaye8/tej2o-unit-5-05"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
