@@ -23,7 +23,7 @@ input.onButtonPressed(Button.A, function () {
     )
 
     // display the result
-    basic.showNumber(distanceToObject)
+    basic.showString(distanceToObject + " cm")
     basic.pause(500)
     basic.showIcon(IconNames.Happy)
 })
